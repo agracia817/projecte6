@@ -1,4 +1,4 @@
-# projecte6
+# projecte1
 Projecte sobre programacio al CFGS d'ASIX sobre python a l'institut public IES Julio Antonio
 
 ## HELLO_WORLD
